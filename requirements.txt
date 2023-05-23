@@ -1,0 +1,7 @@
+selenium==4.9.1
+scikit-learn==1.0.2
+numpy==1.21.5
+tensorflow==2.10.1
+tensorflow_hub==0.13.0
+tensorflow_text==2.10.0
+multi-rake==0.0.2
